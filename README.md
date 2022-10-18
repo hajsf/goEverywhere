@@ -1,0 +1,1 @@
+Objective of this repository, is to build a go app that can run within a webview in all platforms
